@@ -1,0 +1,28 @@
+# Python кэш
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+tests/__pycache__
+
+# Виртуальное окружение
+.venv/
+venv/
+ENV/
+env/
+
+# Файлы покрытия
+.coverage
+.coverage.*
+coverage.xml
+*.cover
+
+# Файлы IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Файлы логов
+*.log 
